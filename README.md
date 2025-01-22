@@ -69,7 +69,3 @@ This project focuses on predicting eye states (open or closed) using EEG (Electr
 ### **Conclusion**
 
 This project successfully demonstrates the application of machine learning for EEG-based eye state prediction. It highlights the importance of data preprocessing, feature engineering, and model optimization in building an accurate and reliable classifier. The project provides a strong foundation for further exploration and application in real-world scenarios.
-
----
-
-Feel free to include this overview in your GitHub repository to summarize the project effectively! Let me know if you need help formatting or improving it further.
